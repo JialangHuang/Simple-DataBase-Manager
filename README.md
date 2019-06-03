@@ -1,4 +1,4 @@
-# Single-DataBase-Manager
+# Simple-DataBase-Manager
 ## Description
 This a personal project. This is a Windows Form Applicetion with database. The purpose of this project is for my mom's auto repair company. This application can help my mom to manger her company. User can manage repair order, manager employee information and calculate  the salary.
 
